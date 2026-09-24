@@ -1,0 +1,10 @@
+# Estado interno de la app (Freebuff)
+.freebuff/
+
+# Node / npm
+node_modules/
+*.tgz
+
+# Skills instaladas por autoskills (por-repo; solo se commitea README.md)
+.agents/skills/*
+!.agents/skills/README.md
