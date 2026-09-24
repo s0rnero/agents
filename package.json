@@ -1,6 +1,6 @@
 {
   "name": "agents-setup-sorno",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Installs and updates the generic agent harness (.agents) into any repository: workflow, gates, Definition of Done, plans as persistent memory, ADRs and per-stack skills via autoskills.",
   "type": "module",
   "bin": {
